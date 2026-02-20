@@ -14,7 +14,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  Boas-vindas ao primeiro desafio da trilha de Ciência de Dados! Durante este projeto, o objetivo principal foi assumir o papel de analista e ajudar o Senhor João a tomar uma decisão estratégica: qual loja da sua rede (Alura Store) vender para iniciar um novo empreendimento.
+  Primeiro desafio da trilha de Ciência de Dados! Durante este projeto, o objetivo principal foi assumir o papel de analista e ajudar o Senhor João a tomar uma decisão estratégica: qual loja da sua rede (Alura Store) vender para iniciar um novo empreendimento.
   
   Para chegar a essa conclusão, foi realizada uma análise profunda em bases de dados reais contendo informações de vendas, desempenho de produtos, custos logísticos e avaliações de clientes das 4 lojas fictícias da rede. O desafio culminou em um relatório embasado em dados visuais para identificar a filial com a menor eficiência operacional.
 </p>
