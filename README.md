@@ -36,7 +36,7 @@
 1. No seu terminal, faça o clone do projeto: 
 
 ```bash
-git clone [https://github.com/frneide/NOME-DO-SEU-REPOSITORIO-AQUI](https://github.com/frneide/NOME-DO-SEU-REPOSITORIO-AQUI)
+git clone [https://github.com/frneide/challenge-store-ALURA](https://github.com/frneide/challenge-store-ALURA)
 ```
 
 2. Certifique-se de ter o Python instalado na sua máquina, assim como o Jupyter Notebook (ou utilize o Google Colab).
